@@ -10,4 +10,5 @@ Download the zip file [here](https://github.com/mbpacana/c-platformer-game/blob/
 
 ## Authors
 **Michael Ervin Pacaña** 
+
 **Noah Dominic Silvio** 
